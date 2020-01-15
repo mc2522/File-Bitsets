@@ -1,0 +1,35 @@
+commit 3272951a86ae67a1e1547a2353e93258cef61ad4
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:28:13 2019 -0400
+
+    fixed warnings by try
+
+commit 630a4964a7018f2d20a88daccfd721aba23dfd1e
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:27:25 2019 -0400
+
+    fixed minor issues such as incompatible comparisons.
+
+commit d1eda2dbd1bff3d84912270b149d80ada9410a0c
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:25:56 2019 -0400
+
+    fixed formatting issues
+
+commit 087762b0fc1594cbefcc2e7173291abe6f8d2041
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:23:27 2019 -0400
+
+    fixed formatting a bit.
+
+commit 83f3438b4941149384039513af1a34cb41a70e28
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:20:18 2019 -0400
+
+    fixed memory issue.
+
+commit c1d3ba1b8d1c51b0c962b4e60d98dee40e7fadef
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 10 21:18:03 2019 -0400
+
+    sort of complete
